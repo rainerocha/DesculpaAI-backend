@@ -8,10 +8,20 @@ Esse projeto foi desenvolvido pela equipe IAlibi girls para o Hackathon de ideia
 
 ## Minhas contribuições
 
-Neste fork, eu trabalhei nas seguintes funcionalidades:
+- Modelagem das entidades `Pedido` e `Usuário`.
+- Definição dos relacionamentos entre as entidades utilizando JPA.
+- Criação dos repositórios `PedidoRepository` e `UsuarioRepository`.
+- Implementação da camada de persistência com Spring Data JPA.
 
-- Modelagem das entidades Pedidos e Usuário.
-- Criação dos repositórios JPA para conexão com o banco de dados.
+## Trabalhos desenvolvidos durante a contribuição
+
+- Desenvolvimento inicial da lógica de serviços para operações de consulta.
+- Elaboração de Pull Requests contendo propostas de implementação para a camada de serviços.
+
+## Pull Requests
+
+- PR #01 - Modelagem das entidades e criação dos repositórios.
+- PR #02 - Implementação inicial da camada de serviços.
 
 ## 📖 O que é isso?
 
