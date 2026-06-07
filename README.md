@@ -31,6 +31,16 @@ Springdoc OpenAPI 2.0.2 ........... Transforma código em documentação lindinh
 PostgreSQL ........................ Onde vivem seus dados (quando você os encontra)
 ```
 
+
+## Minhas contribuições
+
+Neste fork, eu trabalhei nas seguintes funcionalidades:
+
+- Modelagem das entidades.
+- Criação dos repositórios JPA para conexão com o banco de dados.
+
+
+
 ## ⚙️ Antes de Começar (O Impaciente)
 
 ### Pré-requisitos (infelizmente necessários)
