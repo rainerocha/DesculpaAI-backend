@@ -2,6 +2,17 @@
 
 > *No início, o Universo foi criado. Isso deixou muitas pessoas muito furiosas e amplamente considerado como um movimento estúpido. Mas no que diz respeito ao DesculpaAI, bem... isso ainda é bem estúpido.*
 
+## Sobre o projeto
+
+Esse projeto foi desenvolvido pela equipe IAlibi girls para o Hackathon de ideias inúteis e coisas absurdas da Codecon. O desafio consistia em construir uma ideia inútil ou absurda em um fim de semana, nada sério ou comercial, mas genial e criativo o suficiente para as pessoas pensarem porque eu preciso disso ? Ou porque eu nunca pensei nisso ? Asssim surgiu o DesculpaAI que acabou sendo mais útil do que nós imaginávamos 😅.
+
+## Minhas contribuições
+
+Neste fork, eu trabalhei nas seguintes funcionalidades:
+
+- Modelagem das entidades Pedidos e Usuário.
+- Criação dos repositórios JPA para conexão com o banco de dados.
+
 ## 📖 O que é isso?
 
 DesculpaAI é um backend RESTful que gera desculpas criativas e absurdas para qualquer situação. Desenvolvido em **Spring Boot 3** com **Java 21** durante um hackathon, porque em vez de consertar seus problemas, é muito mais fácil ter desculpas criativas para eles.
@@ -30,16 +41,6 @@ Spring DevTools ................... Codificação sem reiniciar, uma bênção d
 Springdoc OpenAPI 2.0.2 ........... Transforma código em documentação lindinha
 PostgreSQL ........................ Onde vivem seus dados (quando você os encontra)
 ```
-
-
-## Minhas contribuições
-
-Neste fork, eu trabalhei nas seguintes funcionalidades:
-
-- Modelagem das entidades.
-- Criação dos repositórios JPA para conexão com o banco de dados.
-
-
 
 ## ⚙️ Antes de Começar (O Impaciente)
 
