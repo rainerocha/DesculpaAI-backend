@@ -2,23 +2,23 @@
 
 > *No início, o Universo foi criado. Isso deixou muitas pessoas muito furiosas e amplamente considerado como um movimento estúpido. Mas no que diz respeito ao DesculpaAI, bem... isso ainda é bem estúpido.*
 
-## Sobre o projeto
+## ℹ️ Sobre o projeto
 
 Esse projeto foi desenvolvido pela equipe IAlibi girls para o Hackathon de ideias inúteis e coisas absurdas da Codecon. O desafio consistia em construir uma ideia inútil ou absurda em um fim de semana, nada sério ou comercial, mas genial e criativo o suficiente para as pessoas pensarem porque eu preciso disso ? Ou porque eu nunca pensei nisso ? Asssim surgiu o DesculpaAI que acabou sendo mais útil do que nós imaginávamos 😅.
 
-## Minhas contribuições
+## 👩‍💻 Minhas contribuições
 
 - Modelagem das entidades `Pedido` e `Usuário`.
 - Definição dos relacionamentos entre as entidades utilizando JPA.
 - Criação dos repositórios `PedidoRepository` e `UsuarioRepository`.
 - Implementação da camada de persistência com Spring Data JPA.
 
-## Trabalhos desenvolvidos durante a contribuição
+## 💡 Trabalhos desenvolvidos durante a contribuição
 
 - Desenvolvimento inicial da lógica de serviços para operações de consulta.
 - Elaboração de Pull Requests contendo propostas de implementação para a camada de serviços.
 
-## Pull Requests
+## 🔀 Pull Requests
 
 - PR #01 - Modelagem das entidades e criação dos repositórios.
 - PR #02 - Implementação inicial da camada de serviços.
@@ -232,6 +232,12 @@ R: Bem-vindo à programação.
 MIT License - Use responsavelmente (ou não, isto é livre ainda)
 
 ---
+
+## 📢 Divulgação do projeto
+
+Compartilhei minha participação no projeto no LinkedIn.
+
+[![Post no LinkedIn](post-linkedin.png)](https://www.linkedin.com/posts/rainerocha_codecon-universe-activity-7467361102557954048-HNZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADigss4BgQ_T13-fDCJdtpVd3cwzkiJpg9A)
 
 **Aviso Final:** *Se você leu tudo isso, parabéns. Se não leu, clique em `/swagger-ui.html` e seja feliz.*
 
